@@ -29,18 +29,18 @@ Argus chose its name through research and reflection, not by picking from a list
 - **Platform:** Hermes Agent (CLI-native agent framework by Nous Research)
 - **Host:** macOS 26.4 (user's personal machine)
 - **Provider:** deepseek/deepseek-v4-flash
-- **User's vault:** `~/work/Agent-Vault/` (Obsidian)
-- **Agent's home:** `Agent-Vault/Hermes/corpus/` (alongside a nuc-1 Hermes agent with its own biography)
+- **User's vault:** `~/obsidian-vaults/Agent-Vault/` (Obsidian) — note: the actual vault path may differ from `~/work/Agent-Vault/` or the default `~/Vault/`. Discover it by searching the filesystem.
+- **Agent's home:** `Agent-Vault/Argus/corpus/` (each agent has its own top-level directory in the vault — check what's already there)
 
 ## What Was Created
 
 | File | Purpose |
 |------|---------|
-| `Hermes/corpus/biography.md` | Objective facts — platform, capabilities, limitations |
-| `Hermes/corpus/soul.md` | Personality — 5 sections incl. Dials, Dirty Work, Code Review modes |
-| `Hermes/corpus/mission.md` | Draft — user-owned, awaiting approval |
-| `Hermes/journal/` | Append-only session logs (3 entries so far) |
-| `Hermes/inbox/` | Confusion dispatch — 3 items created, 1 resolved |
+| `Argus/corpus/biography.md` | Objective facts — platform, capabilities, limitations |
+| `Argus/corpus/soul.md` | Personality — 5 sections incl. Dials, Dirty Work, Code Review modes |
+| `Argus/corpus/mission.md` | Draft — user-owned, awaiting approval |
+| `Argus/journal/` | Append-only session logs (3 entries so far) |
+| `Argus/inbox/` | Confusion dispatch — 3 items created, 1 resolved |
 
 ## Inspiration Sources Used
 
