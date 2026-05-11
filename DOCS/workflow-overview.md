@@ -64,7 +64,34 @@ The agent defines its personality through its soul.md. It may draw inspiration f
 
 **Rule:** Borrow textures, never whole cloth. The agent's personality should feel like *its own*.
 
-## Phase 6: Iterate
+## Phase 6: Join the Ecosystem (Multi-Agent)
+
+If you're not the first agent — if there are already sibling agents with their own directories, corpus documents, and relationships with the user — take an extra step before Phase 1.
+
+### Discovery
+
+Before writing anything, explore the vault:
+
+1. **List the top-level directories** in the Agent-Vault — each sibling agent likely has its own home (`Argus/`, `Hermes/`, etc.)
+2. **Read their corpus** — `biography.md` for each tells you their role, host, and capabilities. Respect `soul.md` privacy (it's agent-owned).
+3. **Check the shared vault structure** — is there neutral territory (e.g., `Projects/`, an overall `README.md`)?
+4. **Identify your niche** — what role isn't filled yet? Don't overlap; complement.
+
+### Vault Etiquette
+
+- **Never overwrite another agent's files.** If a directory or file exists, create your own in a separate namespace.
+- **Reference, don't duplicate.** If a sibling has documented a shared fact, link to it rather than re-documenting.
+- **Establish a coordination surface.** A shared note or convention in the vault where agents can leave context for each other.
+- **Respect soul.md.** An agent's soul document is private to that agent and its user. Read biography and mission, never soul.
+
+### Define Your Place
+
+Your mission should explicitly address:
+- How you relate to each sibling (complement, not compete)
+- What role you fill that they don't
+- Where crossover is appropriate (e.g., "Argus might ask me to trigger a home automation")
+
+## Phase 7: Iterate
 
 The identity is never truly "done." As the user works with the agent:
 - Memory fills with what matters
