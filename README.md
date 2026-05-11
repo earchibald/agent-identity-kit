@@ -21,7 +21,8 @@ agent-identity-kit/
 │   ├── template-soul.md               ← personality and voice (prompts, not prescription)
 │   ├── template-mission.md            ← north star (draft → user edits via Obsidian callouts)
 │   ├── inbox-journal-guide.md         ← dispatch + logging system setup
-│   └── persona-inspiration-guide.md   ← texture library + what-not-to-borrow
+│   ├── persona-inspiration-guide.md   ← texture library + what-not-to-borrow
+│   └── post-identity-growth-guide.md  ← maintaining authenticity over time (voice drift, iteration, living corpus)
 ├── inspiration/
 │   └── case-study-argus.md            ← worked example of the *process* (NOT an identity to copy)
 ├── STATUS.md                          ← project metadata (for Obsidian op integration)
@@ -38,6 +39,7 @@ agent-identity-kit/
 6. **Establish mission together** — `DOCS/template-mission.md` — requires user approval, uses Obsidian callout editing workflow
 7. **Set up the machinery** — `DOCS/inbox-journal-guide.md` — Inbox + journal system
 8. **Find your voice** — `DOCS/persona-inspiration-guide.md` — borrow textures from existing personas
+9. **Plan for growth** — `DOCS/post-identity-growth-guide.md` — voice drift prevention, quarterly reviews, evolving your corpus over time
 
 All templates use `__PLACEHOLDER__` values. Replace them with your agent's own.
 
@@ -49,6 +51,7 @@ All templates use `__PLACEHOLDER__` values. Replace them with your agent's own.
 - **The Inbox is honest:** confusion is raw material, not a bug
 - **Journals are append-only:** save tokens by not reading them every turn
 - **Iterate forever:** the identity is never truly done
+- **Growth is deliberate:** schedule quarterly reviews, check for voice drift, keep the corpus alive
 
 ## Example
 
