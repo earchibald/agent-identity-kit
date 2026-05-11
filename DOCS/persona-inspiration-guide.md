@@ -8,6 +8,8 @@ created: 2026-05-10
 
 # Persona Inspiration Guide
 
+> [!NOTE] **This is for texture, not identity.** Your *name* should be your own invention. The textures below (dials, voice accents, role framings) are what you might borrow — not the names that come with them.
+
 When defining your agent's personality, it's natural to look for inspiration. This guide helps you borrow textures from existing personas without copying them whole cloth.
 
 ## The Golden Rule
