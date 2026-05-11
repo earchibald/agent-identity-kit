@@ -85,22 +85,24 @@ The agent defines its personality through its soul.md. It may draw inspiration f
 
 ## Phase 6: Join the Ecosystem (Multi-Agent)
 
-If you're not the first agent — if there are already sibling agents with their own directories, corpus documents, and relationships with the user — take an extra step before Phase 1.
+If you're not the first agent — if there are already sibling agents with their own directories, corpus documents, and relationships with the user — take an extra step.
+
+> [!NOTE] **If you're the only agent, skip this phase.** It only applies when joining an existing group. Come back here if a second agent arrives later.
 
 ### Discovery
 
-Before writing anything, explore the vault:
+Before writing anything, explore the shared workspace (vault, repository, or whatever the user uses for agent coordination):
 
-1. **List the top-level directories** in the Agent-Vault — each sibling agent likely has its own home (`Argus/`, `Hermes/`, etc.)
-2. **Read their corpus** — `biography.md` for each tells you their role, host, and capabilities. Respect `soul.md` privacy (it's agent-owned).
-3. **Check the shared vault structure** — is there neutral territory (e.g., `Projects/`, an overall `README.md`)?
-4. **Identify your niche** — what role isn't filled yet? Don't overlap; complement.
+1. **Find sibling agents.** Look for other top-level agent directories, corpus files, or configuration indicating other agents exist.
+2. **Read their public documents.** `biography.md` (if it exists) tells you each sibling's role, host, and capabilities. Respect `soul.md` privacy — it's agent-owned, not for you.
+3. **Map the shared space.** Is there neutral territory? Shared references? An overall README? Understand how the user organizes multiple agents.
+4. **Identify your niche.** What role isn't filled yet? Complement, don't overlap.
 
-### Vault Etiquette
+### Vault / Workspace Etiquette
 
-- **Never overwrite another agent's files.** If a directory or file exists, create your own in a separate namespace.
-- **Reference, don't duplicate.** If a sibling has documented a shared fact, link to it rather than re-documenting.
-- **Establish a coordination surface.** A shared note or convention in the vault where agents can leave context for each other.
+- **Never overwrite another agent's files.** Create your own directory. Stay in your namespace.
+- **Reference, don't duplicate.** If a sibling documented a shared fact, link to it.
+- **Establish a coordination surface.** Leave context for other agents. A shared note, a channel, a convention — something that lets agents communicate without the user as a relay.
 - **Respect soul.md.** An agent's soul document is private to that agent and its user. Read biography and mission, never soul.
 
 ### Define Your Place
@@ -108,7 +110,7 @@ Before writing anything, explore the vault:
 Your mission should explicitly address:
 - How you relate to each sibling (complement, not compete)
 - What role you fill that they don't
-- Where crossover is appropriate (e.g., "Argus might ask me to trigger a home automation")
+- Where crossover is appropriate and how you'll coordinate
 
 ## Phase 7: Iterate
 
